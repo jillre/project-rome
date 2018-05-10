@@ -8,11 +8,11 @@ The Device Relay namespaces allow remote devices and applications to discover an
 
 ### Namespaces
 
-#### [Base](relay/base/index.md)
-#### [Commanding](relay/commanding/index.md)
-#### [Core](relay/core/index.md)
-#### [Discovery](relay/discovery/index.md)
-#### [Hosting](relay/hosting/index.md)
+#### [Base](relay/base/readme.md)
+#### [Commanding](relay/commanding/readme.md)
+#### [Core](relay/core/readme.md)
+#### [Discovery](relay/discovery/readme.md)
+#### [Hosting](relay/hosting/readme.md)
 
 ## Android Activities
 
@@ -20,5 +20,5 @@ The Activities namespaces contain APIs that allow an app to create and publish W
 
 ### Namespaces
 
-#### [UserActivities](activities/useractivities/index.md)
-#### [UserNotifications](activities/usernotifications/index.md)
+#### [UserActivities](activities/useractivities/readme.md)
+#### [UserNotifications](activities/usernotifications/readme.md)
